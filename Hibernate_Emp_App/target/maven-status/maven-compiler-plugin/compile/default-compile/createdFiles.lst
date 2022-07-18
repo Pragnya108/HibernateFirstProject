@@ -1,0 +1,7 @@
+service\UpdateEmployee.class
+service\DeleteEmployee.class
+model\Employee.class
+service\AddEmployee.class
+service\SelectEmployees.class
+model\Doctor.class
+service\MethodPractice.class
